@@ -1,5 +1,5 @@
 ## Notebook entrega os 5 algoritmos exigidos (KNN, LogReg, Decision Tree, Random Forest, SVM) com avaliação completa e comparação.
-•⁠  ⁠EDA e “perfil ideal” ficarão a cargo do colega.
+•⁠  ⁠EDA e “perfil ideal” ficarão a cargo da Stephanie.
 •⁠  ⁠Tudo roda limpo após Restart & Run All, sem warnings
 
 ### 1️⃣ Célula 0 – Seed global
